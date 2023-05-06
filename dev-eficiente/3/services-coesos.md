@@ -1,4 +1,4 @@
-# Services 100% Coesos
+# Pattern 2: Services 100% Coesos
 
 - Números de linhas isoladamente não indica a complexidade de um arquivo. Devemos sempre observar a coesão do arquivo, ou seja, se ele está fazendo apenas uma coisa, aplicando a teoria da complexidade cognitiva que diz que o cérebro humano consegue processar apenas 7 itens de uma vez. Se um arquivo possui mais de 7 responsabilidades, ele é considerado complexo.
 - Um arquivo com mais de 7 responsabilidades é considerado complexo e deve ser refatorado.
