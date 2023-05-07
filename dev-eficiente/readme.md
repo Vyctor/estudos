@@ -8,3 +8,4 @@
 
 - [Pattern 2: Services 100% coesos](./3/services-coesos.md)
 - [Pattern 3: Form value object](./3/form-value-object.md)
+- [O papel dos testes automatizados no nosso código](./3/testes-automatizados.md)
